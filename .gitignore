@@ -115,3 +115,6 @@ $RECYCLE.BIN/
 ## Exclude additional folders
 .tmp/
 tmp/
+
+## Node 
+node_modules/
